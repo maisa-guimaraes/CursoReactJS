@@ -1,0 +1,5 @@
+npx create-react-app hello-world
+
+cd hello-world 
+
+npm start
